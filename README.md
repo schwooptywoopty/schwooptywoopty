@@ -4,6 +4,7 @@ I don't even know what im doing here but I figured I should create a place to re
 
 Have you heard of steganography!? You can hide files and data inside of images. Pretty neat. Openstego is the tool I like to use.
 https://github.com/syvaidya/openstego/releases
+I've also been using hideNsend for jpeg type images
 
 <!---
 schwooptywoopty/schwooptywoopty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
